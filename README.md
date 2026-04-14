@@ -7,7 +7,6 @@ I bridge the gap between **aesthetic design** and **scalable logic**. Specializi
 
 - 🛠️ **Current Focus:** Crafting the UI/UX and logic for a **Football Club ERP** using React & Tailwind.
 - 📐 **Design Philosophy:** Clean, accessible, and high-conversion interfaces designed in Figma.
-- 🌱 **Innovation:** Developing software-based solutions for **Green IT** and Open-Source AI.
 - 📱 **Technical Edge:** Experienced in **System Restoration** and deep-level Android optimization.
 
 ---
