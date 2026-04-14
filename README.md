@@ -48,13 +48,13 @@ A comprehensive 4-module management system (Player, Coach, Manager, Admin) built
 - **Tech:** React, Node.js, Express, MongoDB, Tailwind CSS.
 - **Status:** 🏗️ Active Development
 
-### ⚖️ Court Justice Project (LogicLink AI)
+### ⚖️ Lexinode (Judicial managment system)
 A specialized legal management platform for tracking case volumes and verifying legal credentials.
 - **Role:** Frontend Developer & UI/UX Designer
 - **Tech:** React, Tailwind CSS, JavaScript, Open-Source Logic Models.
 - **Status:** ✅ UI & Core Logic Finalized
 
-### 🎓 Student Portal (Project ICP)
+### 🎓 ICP (Student Portal)
 A high-performance student management interface focused on user experience and data accessibility.
 - **Role:** UI/UX Designer & Frontend Lead
 - **Tech:** React, Tailwind CSS, JavaScript.
