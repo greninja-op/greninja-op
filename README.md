@@ -37,11 +37,6 @@ I bridge the gap between **aesthetic design** and **scalable logic**. Specializi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Advanced & Experimental
-![Cloud Code](https://img.shields.io/badge/Cloud_Code-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-FF6B6B?style=for-the-badge)
-![Kiro](https://img.shields.io/badge/Kiro-6C5CE7?style=for-the-badge)
-
 ---
 
 
