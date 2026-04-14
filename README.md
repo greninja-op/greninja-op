@@ -1,4 +1,4 @@
-# Hi, I'm Arjun 👋 
+# Arjun 👋 
 ### Full-Stack Developer | UI/UX Designer | MERN Specialist
 
 ---
