@@ -1,16 +1,15 @@
 <div align="center">
 
-<!-- UNIFIED TERMINAL DEVELOPER ID CARD & NEURAL CODE PORTRAIT -->
+<!-- UNIFIED TERMINAL DEVELOPER ID CARD (RED / BLACK / WHITE) -->
 <a href="https://greninja-five.vercel.app" target="_blank">
   <img src="./assets/developer_id_card.svg" alt="Arjun Sabu - Developer Identity Card & Code Portrait" width="100%" />
 </a>
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-greninja--five.vercel.app-00f0ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://greninja-five.vercel.app)
-[![SigNoz Winner](https://img.shields.io/badge/🏆_Hackathon_Winner-Agents_of_SigNoz-8b5cf6?style=for-the-badge&logo=apache-spark&logoColor=white)](https://github.com/greninja-op/ChronoLens)
-[![GitHub Status](https://img.shields.io/badge/⚡_Focus-AI_Agents_&_Protocols-10b981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/greninja-op)
-[![Contact](https://img.shields.io/badge/✉️_Inquiries-sabuarjun88@gmail.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabuarjun88@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-greninja--five.vercel.app-dc2626?style=for-the-badge&logo=google-chrome&logoColor=white)](https://greninja-five.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-@greninja--op-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/greninja-op)
+[![Contact](https://img.shields.io/badge/✉️_Inquiries-sabuarjun88@gmail.com-dc2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabuarjun88@gmail.com)
 
 </div>
 
@@ -26,7 +25,7 @@ I build production-grade systems across autonomous agent workflows, distributed 
 
 ## 📂 FEATURED PROJECTS
 
-### ⚡ [ChronoLens](https://github.com/greninja-op/ChronoLens) `🏆 SigNoz Hackathon Winner`
+### ⚡ [ChronoLens](https://github.com/greninja-op/ChronoLens)
 
 <p align="center">
   <a href="https://github.com/greninja-op/ChronoLens">
@@ -34,9 +33,9 @@ I build production-grade systems across autonomous agent workflows, distributed 
   </a>
 </p>
 
-A closed-loop predictive SRE control plane built on **SigNoz OpenTelemetry** feeds. It monitors live telemetry traces, forecasts SLO breaches and AI agent cost spirals before impact, triggers reversible circuit breakers, and verifies the outage never happened.
+A closed-loop predictive SRE control plane built on **OpenTelemetry** feeds. Monitors live telemetry traces, forecasts SLO breaches and AI agent cost spirals before impact, triggers reversible circuit breakers, and verifies the outage never happened.
 
-- **Stack:** Python · OpenTelemetry · SigNoz API · FastAPI · React · Docker
+- **Stack:** Python · OpenTelemetry · FastAPI · React · Docker
 - **Repository:** [`greninja-op/ChronoLens`](https://github.com/greninja-op/ChronoLens)
 
 <br/>
@@ -86,10 +85,10 @@ A full-stack personal finance platform that unifies your financial life into one
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=greninja-op&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1329&title_color=00f0ff&icon_color=38bdf8&text_color=94a3b8" width="100%" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=greninja-op&show_icons=true&bg_color=0a0a0a&title_color=ef4444&icon_color=dc2626&text_color=e5e5e5&border_color=262626" width="100%" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greninja-op&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1329&title_color=a855f7&text_color=94a3b8" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greninja-op&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=e5e5e5&border_color=262626" width="100%" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -101,7 +100,7 @@ A full-stack personal finance platform that unifies your financial life into one
 
 | Domain | Technologies |
 | :--- | :--- |
-| **🤖 AI & Autonomous Agents** | OpenTelemetry · SigNoz API · FastAPI · Python · Prompt Guardrails · Sarvam · ElevenLabs |
+| **🤖 AI & Autonomous Agents** | OpenTelemetry · FastAPI · Python · Prompt Guardrails · Sarvam · ElevenLabs |
 | **⚡ Distributed Systems & Backend** | Go · gRPC · WebSockets · Node.js · Bun · PostgreSQL · MongoDB · Drizzle ORM |
 | **🎨 Frontend & UI/UX Design** | React · Vite · TypeScript · Tailwind CSS · Glassmorphism · Figma Design Systems |
 | **🚢 DevOps & Reliability** | Docker · Docker Compose · Linux Worktrees · Git Worktrees · CI/CD Actions · PowerShell |
@@ -115,15 +114,15 @@ A full-stack personal finance platform that unifies your financial life into one
 <br/>
 
 <a href="https://greninja-five.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Interactive_Portfolio-EXPLORE_NOW-00f0ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+  <img src="https://img.shields.io/badge/Live_Portfolio-EXPLORE_NOW-dc2626?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/greninja-op" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-@greninja--op-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  <img src="https://img.shields.io/badge/GitHub-@greninja--op-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:sabuarjun88@gmail.com">
-  <img src="https://img.shields.io/badge/Email-sabuarjun88@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Arjun" />
+  <img src="https://img.shields.io/badge/Email-sabuarjun88@gmail.com-dc2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Arjun" />
 </a>
 
 <br/><br/>
