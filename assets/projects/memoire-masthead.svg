@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 460" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="mm-title mm-desc">
+  <title id="mm-title">Mémoire</title>
+  <desc id="mm-desc">Mémoire — a shared brain for the whole family, built into WhatsApp. Tasks and reminders by text, voice, or call, in 27 languages.</desc>
+
+  <defs>
+    <!-- Evergreen hero glow, matching the live site -->
+    <radialGradient id="glow" cx="50%" cy="0%" r="62%">
+      <stop offset="0%" stop-color="#0F9067" stop-opacity="0.14"/>
+      <stop offset="70%" stop-color="#0F9067" stop-opacity="0"/>
+    </radialGradient>
+    <!-- A soft evergreen light band that sweeps across the wordmark -->
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0F9067" stop-opacity="0"/>
+      <stop offset="0.46" stop-color="#0F9067" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#0F9067" stop-opacity="0.5"/>
+      <stop offset="0.54" stop-color="#0F9067" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0F9067" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="5s" begin="1.7s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Warm paper ground (platform page color) -->
+  <rect width="1600" height="460" fill="#FAFAF8"/>
+  <!-- Breathing evergreen glow keeps the masthead alive -->
+  <rect width="1600" height="460" fill="url(#glow)">
+    <animate attributeName="opacity" values="0.65;1;0.65" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Editorial inset rule -->
+  <rect x="24" y="24" width="1552" height="412" fill="none" stroke="#1C1A17" stroke-opacity="0.12" stroke-width="1.2"/>
+
+  <!-- A single evergreen accent that draws along the top inset edge -->
+  <line x1="24" y1="24" x2="24" y2="24" stroke="#0B6048" stroke-width="3">
+    <animate attributeName="x2" from="24" to="120" dur="0.7s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+  </line>
+
+  <!-- Kicker — the name means "memory" -->
+  <text x="800" y="104" text-anchor="middle" opacity="0"
+        font-family="'Newsreader','Georgia','Times New Roman',serif"
+        font-style="italic" font-size="28" fill="#1C1A17">la mémoire de la famille
+    <animate attributeName="opacity" from="0" to="0.62" dur="0.6s" begin="0.25s" fill="freeze"/>
+  </text>
+
+  <!-- Wordmark — rises and fades into place -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.4s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 16" to="0 0" dur="0.9s" begin="0.4s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+    <text x="800" y="292" text-anchor="middle"
+          font-family="'Fraunces','Newsreader','Georgia','Times New Roman',serif"
+          font-size="120" font-weight="600" fill="#1C1A17" letter-spacing="2">Mémoire</text>
+  </g>
+  <!-- Living sheen, confined to the letterforms -->
+  <text x="800" y="292" text-anchor="middle" opacity="0"
+        font-family="'Fraunces','Newsreader','Georgia','Times New Roman',serif"
+        font-size="120" font-weight="600" fill="url(#sheen)" letter-spacing="2">Mémoire
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.5s" fill="freeze"/>
+  </text>
+
+  <!-- Short evergreen accent rule — draws outward from the centre -->
+  <line x1="800" y1="332" x2="800" y2="332" stroke="#0B6048" stroke-width="3">
+    <animate attributeName="x1" from="800" to="770" dur="0.5s" begin="1.0s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+    <animate attributeName="x2" from="800" to="830" dur="0.5s" begin="1.0s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+  </line>
+
+  <!-- Tagline -->
+  <text x="800" y="376" text-anchor="middle" opacity="0"
+        font-family="'Newsreader','Georgia','Times New Roman',serif"
+        font-style="italic" font-size="23" fill="#1C1A17">A shared brain for the whole family.
+    <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="1.15s" fill="freeze"/>
+  </text>
+
+  <!-- Provenance line -->
+  <text x="800" y="416" text-anchor="middle" opacity="0"
+        font-family="'Newsreader','Georgia','Times New Roman',serif"
+        font-size="11.5" letter-spacing="2.6" fill="#1C1A17">WHATSAPP-NATIVE FAMILY ASSISTANT&#160;&#160;·&#160;&#160;27 LANGUAGES&#160;&#160;·&#160;&#160;TEXT, VOICE &amp; CALL
+    <animate attributeName="opacity" from="0" to="0.55" dur="0.7s" begin="1.35s" fill="freeze"/>
+  </text>
+</svg>
