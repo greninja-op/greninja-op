@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="100%" height="auto">
+  <defs>
+    <linearGradient id="bgGrad_memoire" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16" />
+      <stop offset="60%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#070a12" />
+    </linearGradient>
+    <linearGradient id="glow_memoire" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c3aed" />
+      <stop offset="100%" stop-color="#db2777" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card Frame -->
+  <rect x="2" y="2" width="896" height="236" rx="16" fill="url(#bgGrad_memoire)" stroke="#1e293b" stroke-width="1.5" />
+  
+  <!-- Left Accent Accent Line -->
+  <rect x="2" y="2" width="6" height="236" rx="3" fill="url(#glow_memoire)" />
+
+  <!-- Top Category and Badge -->
+  <text x="24" y="32" fill="#c084fc" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700" letter-spacing="1">
+    🧠  AUTONOMOUS AI AGENTS & SEMANTIC PERSISTENCE
+  </text>
+
+  <!-- Badge Pill -->
+  <g transform="translate(680, 15)">
+    <rect x="0" y="0" width="200" height="24" rx="12" fill="#a855f7" fill-opacity="0.15" stroke="#a855f7" stroke-width="1"/>
+    <text x="100" y="16" text-anchor="middle" fill="#a855f7" font-family="'JetBrains Mono', monospace" font-size="10.5" font-weight="700">
+      AI INFRASTRUCTURE
+    </text>
+  </g>
+
+  <!-- Title -->
+  <text x="24" y="68" fill="#ffffff" font-family="'Inter', sans-serif" font-size="22" font-weight="800">
+    Memoire (MEMIOR)
+  </text>
+
+  <!-- Tagline -->
+  <text x="24" y="92" fill="#cbd5e1" font-family="'Inter', sans-serif" font-size="13.5" font-weight="500">
+    AI Memory Graph & Long-Term Context Retention Engine for Autonomous LLM Agents.
+  </text>
+
+  <!-- Bullet points -->
+  
+            <g transform="translate(24, 115)">
+              <circle cx="4" cy="4" r="3" fill="#c084fc" />
+              <text x="16" y="8" fill="#94a3b8" font-family="'Inter', sans-serif" font-size="12">Indexes multi-step conversation trajectories into a vector similarity memory graph</text>
+            </g>
+            <g transform="translate(24, 137)">
+              <circle cx="4" cy="4" r="3" fill="#c084fc" />
+              <text x="16" y="8" fill="#94a3b8" font-family="'Inter', sans-serif" font-size="12">Dynamic context pruning & relevance decay algorithms preventing context overflow</text>
+            </g>
+            <g transform="translate(24, 159)">
+              <circle cx="4" cy="4" r="3" fill="#c084fc" />
+              <text x="16" y="8" fill="#94a3b8" font-family="'Inter', sans-serif" font-size="12">Low-latency sub-millisecond memory retrieval for continuous agentic tasks</text>
+            </g>
+
+  <!-- Divider -->
+  <line x1="24" y1="185" x2="876" y2="185" stroke="#1e293b" stroke-width="1" />
+
+  <!-- Tech Tags -->
+  
+            <g transform="translate(24, 196)">
+              <rect x="0" y="0" width="65.0" height="24" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1" />
+              <text x="32.5" y="16" text-anchor="middle" fill="#cbd5e1" font-family="'JetBrains Mono', monospace" font-size="10.5">Python</text>
+            </g>
+            <g transform="translate(97.0, 196)">
+              <rect x="0" y="0" width="87.5" height="24" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1" />
+              <text x="43.75" y="16" text-anchor="middle" fill="#cbd5e1" font-family="'JetBrains Mono', monospace" font-size="10.5">Vector DB</text>
+            </g>
+            <g transform="translate(192.5, 196)">
+              <rect x="0" y="0" width="72.5" height="24" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1" />
+              <text x="36.25" y="16" text-anchor="middle" fill="#cbd5e1" font-family="'JetBrains Mono', monospace" font-size="10.5">FastAPI</text>
+            </g>
+            <g transform="translate(273.0, 196)">
+              <rect x="0" y="0" width="125.0" height="24" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1" />
+              <text x="62.5" y="16" text-anchor="middle" fill="#cbd5e1" font-family="'JetBrains Mono', monospace" font-size="10.5">LLM Embeddings</text>
+            </g>
+            <g transform="translate(406.0, 196)">
+              <rect x="0" y="0" width="110.0" height="24" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1" />
+              <text x="55.0" y="16" text-anchor="middle" fill="#cbd5e1" font-family="'JetBrains Mono', monospace" font-size="10.5">Graph Memory</text>
+            </g>
+            <g transform="translate(524.0, 196)">
+              <rect x="0" y="0" width="95.0" height="24" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1" />
+              <text x="47.5" y="16" text-anchor="middle" fill="#cbd5e1" font-family="'JetBrains Mono', monospace" font-size="10.5">TypeScript</text>
+            </g>
+
+  <!-- View Repository Link Button -->
+  <g transform="translate(720, 194)">
+    <a href="https://github.com/greninja-op/greninja-op" target="_blank">
+      <rect x="0" y="0" width="160" height="28" rx="8" fill="#0f172a" stroke="#c084fc" stroke-width="1" />
+      <text x="80" y="18" text-anchor="middle" fill="#c084fc" font-family="'Inter', sans-serif" font-size="11.5" font-weight="700">
+        VIEW DETAILS ↗
+      </text>
+    </a>
+  </g>
+</svg>
